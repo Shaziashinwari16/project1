@@ -35,7 +35,7 @@ ul li a:hover{
 
 .logo img{
   float: left;
-  width: 150px
+  width: 100px;
   height: auto;
 }
 
@@ -49,7 +49,7 @@ ul li.active a{
 }
 .title{
   position:absolute;
-  top: 15%;
+  top: 25%;
   left: 5%;
   transform: translate(-20%,-10%);
 }
