@@ -55,7 +55,25 @@ ul li.active a{
 }
 .title h1{
   color: black;
-  font-size: 40px;
+  font-size: 20px;
+}
+.Line{
+  color: black;
+  font size: 25px;
+}
+
+.write{
+  color: #A52A2A;
+  font size: 20px;
+}
+.Lekal{
+  color: black;
+  font size: 15px;
+}
+
+.lan{
+  color: black;
+  font size: 200px;
 }
 
 .main{
