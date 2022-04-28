@@ -53,8 +53,8 @@ ul li.active a{
   left: 5%;
   transform: translate(-20%,-10%);
 }
-.title h1{
-  color: black;
+.titleh1{
+  color: blue;
   font-size: 20px;
 }
 .Line{
@@ -73,7 +73,12 @@ ul li.active a{
 
 .lan{
   color: black;
-  font size: 200px;
+  font size: 500px;
+}
+
+.lan5{
+  color: black;
+  font size: 20px;
 }
 
 .main{
@@ -82,9 +87,21 @@ ul li.active a{
 }
 .image{
   float: center;
-  width: 400px
+  width: 850px;
+}
+.picture{
+  width: 20px;
+  height: 10px;
 }
 
+.dress{
+  float:left;
+  width:10px;
+}
+.kamess{
+  float:left;
+  width:5px;
+}
 .topnav .search-container button {
   float: right;
   padding: 6px 10px;
