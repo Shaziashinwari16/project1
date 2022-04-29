@@ -78,18 +78,16 @@ ul li.active a{
   font size: 20px;
 }
 .Lekal{
-  color: black;
-  font size: 15px;
+  color:black;
+  font size: 20px;
 }
 
 .lan{
-  color: black;
-  font size: 500px;
+  font-size: 20px;
 }
 
 .lan5{
-  color: black;
-  font size: 20px;
+  font size: 25px;
 }
 
 .main{
@@ -103,15 +101,15 @@ ul li.active a{
 }
 .image{
   float: center;
-  width: 1500px;
+  width: 2115px;
 }
 .image{
   position: relative;
   top: 70px;
 }
 .picture{
-  float: center;
-  height: 600px;
+  width:50%;
+  height: auto;
 }
 .kamess{
   float:left;
@@ -125,6 +123,9 @@ ul li.active a{
   position: relative;
   left:420px;
   bottom:400px;
+}
+.line3{
+  font-size: 30px;
 }
 body{
   background:#333;
