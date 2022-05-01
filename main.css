@@ -111,7 +111,7 @@ ul li.active a{
 }
 .image{
   position: relative;
-  top: 10px;
+  top: 15px;
   left:90px;
 }
 .picture{
@@ -157,8 +157,10 @@ ul li.active a{
   font-size: 25px;
   color: black;
 }
-
-
+.title12{
+  position: relative;
+  left:80px;
+}
 .mainsearch{
   max-width:850px;
   margin:auto;
