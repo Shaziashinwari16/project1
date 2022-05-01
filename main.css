@@ -166,6 +166,12 @@ ul li.active a{
   margin:auto;
   margin-top:150px;
 }
+.footer{
+  padding: 20px;
+  margin-top: 20px;
+  color: #ffff;
+  
+}
 input[type=text]{
   width:90%;
   padding:12px;
