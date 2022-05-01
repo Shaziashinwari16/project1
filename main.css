@@ -10,7 +10,10 @@
 header{
   background-image: url(.1jpg);
 }
-
+body {background-image: url("wallpaper.jpg");
+background-repeat: no-repeat;
+  background-size: cover;
+}
 ul{
   float: right;
   list-style-type: none;
@@ -31,7 +34,7 @@ ul li{
 
 ul li a{
   text-decoration: none;
-  color: #fff;
+  color: black;
   padding: 5px  20px;
   border: 1px Solid transparent;
 }
@@ -58,10 +61,10 @@ ul li.active a{
   color: #000;
 }
 
-.title{
-  position:absolute;
-  top: 25%;
-  left: 5%;
+.titleh1{
+  position:relative;
+  top:39px;
+  left: 200px;
   transform: translate(-20%,-10%);
 }
 .titleh1{
@@ -74,12 +77,12 @@ ul li.active a{
 }
 
 .write{
-  color: #A52A2A;
+  color: darkblue;
   font size: 20px;
 }
 .Lekal{
   color:black;
-  font size: 20px;
+  font size: 10px;
 }
 
 .lan{
@@ -88,6 +91,9 @@ ul li.active a{
 
 .lan5{
   font size: 25px;
+}
+.Lan6{
+  font-size: 25px;
 }
 
 .main{
@@ -105,11 +111,13 @@ ul li.active a{
 }
 .image{
   position: relative;
-  top: 70px;
+  top: 10px;
+  left:90px;
 }
 .picture{
-  width:50%;
-  height: auto;
+  position:relative;
+  top:10px;
+  left:10px;
 }
 .kamess{
   float:left;
@@ -119,17 +127,38 @@ ul li.active a{
   position:relative;
   top:20px;
 }
+.Akss{
+  position:relative;
+  right:420px;
+}
+.Akss2{
+  position: relative;
+  left:490px;
+  bottom:365px;
+}
 .kalee{
   position: relative;
   left:420px;
   bottom:400px;
 }
+.line2{
+  font-size: 14px;
+  color: black;
+}
 .line3{
-  font-size: 30px;
+  font-size: 17px;
+  color: black;
 }
-body{
-  background:#333;
+.Last1{
+  font-size: 20px;
+  color: black;
 }
+.line6{
+  font-size: 25px;
+  color: black;
+}
+
+
 .mainsearch{
   max-width:850px;
   margin:auto;
